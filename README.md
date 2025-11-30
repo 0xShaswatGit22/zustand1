@@ -27,3 +27,7 @@ src/
     │   ├── CourseForm.jsx
     │   └── CourseList.jsx
     └── courseStore.js
+
+🚀 Live Demo
+Check it out here: 🌐 Zustand Project
+
