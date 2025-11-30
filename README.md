@@ -28,6 +28,7 @@ src/
     │   └── CourseList.jsx
     └── courseStore.js
 
-🚀 Live Demo
-Check it out here: 🌐 Zustand Project
+ 🚀 Live Demo
+
+Check it out here: [🌐 Zustand Project](https://zustand1-pi.vercel.app/)
 
