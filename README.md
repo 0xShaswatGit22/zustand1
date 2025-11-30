@@ -1,6 +1,8 @@
-🌿 Zustand  — React State Management
+🌿 Zustand — React State Management
 
-A simple and clean React project built to learn Zustand, a lightweight and powerful state-management library.
+A fun and simple React project to learn Zustand, the lightweight and powerful state-management library.
+
+Keep your state clean, your components happy, and your bears 🐻 well counted!
 
 ✨ What This Project Covers
 
@@ -12,16 +14,16 @@ A simple and clean React project built to learn Zustand, a lightweight and power
 
 🗑️ Deleting courses
 
-⚡ Fast state updates with no re-renders
+⚡ Fast state updates with no unnecessary re-renders
 
-🎯 Minimal boilerplate, easy to understand
+🎯 Minimal boilerplate, super easy to understand
 
 📁 Project Structure
 src/
- ├── App.js
- ├── App.css
- └── app/
-      ├── components/
-      │    ├── CourseForm.jsx
-      │    └── CourseList.jsx
-      └── courseStore.js
+├── App.js
+├── App.css
+└── app/
+    ├── components/
+    │   ├── CourseForm.jsx
+    │   └── CourseList.jsx
+    └── courseStore.js
